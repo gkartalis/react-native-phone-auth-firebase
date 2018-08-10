@@ -1,0 +1,10 @@
+{
+    "extends": "rallycoding",
+    "plugins": ["react", "react-native"],
+    "ecmaFeatures": {
+        "jsx": true
+    },
+    "rules": {
+        "react/require-extension": "off"
+    }
+}
