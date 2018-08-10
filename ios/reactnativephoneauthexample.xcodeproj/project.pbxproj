@@ -1250,6 +1250,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.kartalisge.phoneauth;
 				PRODUCT_NAME = reactnativephoneauthexample;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1268,6 +1269,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.kartalisge.phoneauth;
 				PRODUCT_NAME = reactnativephoneauthexample;
 				VERSIONING_SYSTEM = "apple-generic";
 			};

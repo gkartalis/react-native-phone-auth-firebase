@@ -45,4 +45,10 @@ class HomeScreen extends Component {
   }
 }
 
-export default connect({ onSignOut })(HomeScreen);
+const mapStateToProps = state => {
+  return {
+    auth: state.auth
+  };
+};
+
+export default connect(mapStateToProps, { onSignOut })(HomeScreen);

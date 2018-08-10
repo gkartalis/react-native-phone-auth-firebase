@@ -29,10 +29,11 @@ yarn.lock
 /android/app/release
 /android/local.properties
 /android/app/src/main/assets
-
+/android/app/google-services.json
 # builds/ios
 
 /ios/build
 /ios/Pods
 /ios/Podfile.lock
 /ios/DerivedData
+/ios/GoogleService-Info.plist
