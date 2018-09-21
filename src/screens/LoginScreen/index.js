@@ -156,7 +156,7 @@ class LoginScreen extends Component {
                         value={auth.codeInput}
                     />
                 </Item>
-                {auth.codeInput &&
+                {(auth.codeInput !== '' ) &&
                 <Button 
                     light 
                     rounded

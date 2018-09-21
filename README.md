@@ -56,12 +56,6 @@ Open XCode go to Plist and add URL types:
 
 #### Add Tests!!!
 
-#### Fix Android
-
-> The example above doesn't work on Android emulator for some reason and when I press Login the app crashes
-
-
-
 ### Usefull links I used:
 
 1. https://reactnavigation.org/
